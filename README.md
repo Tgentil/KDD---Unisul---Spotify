@@ -13,6 +13,9 @@ O objetivo deste projeto é realizar a limpeza de dados de um conjunto de músic
 Para executar o projeto, é necessário ter o Python instalado juntamente com as seguintes bibliotecas:
 
 - pandas
+- openpyxl
+- numpy
+
 
 Você pode instalar as dependências utilizando o comando:
 
