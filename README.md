@@ -1,5 +1,6 @@
 # Projeto de Limpeza de Dados do Spotify
 
+[![Translate](https://img.shields.io/badge/Translate-English%20%F0%9F%8C%8D-blue.svg)](./docs/translate/README.md)
 [![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
 
 Este projeto faz parte da matéria de Análise de Dados e Big Data, ministrada pelo Professor Jorge Werner.
