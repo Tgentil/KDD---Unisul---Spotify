@@ -66,7 +66,7 @@ def clean_data(file_path):
         'danceability': ["Low", "Moderate", "High", "Very High"],
         'energy': ["Low", "Moderate", "High", "Very High"],
         'instrumentalness': ["None", "Some", "Significant", "Strong"],
-        'liveness': ["Studio", "Some Audience", "High Live", "Live"],
+        'liveness': ["Studio", "Some Audience", "High Audience", "Live"],
         'loudness': ["Very Quiet", "Quiet", "Moderate", "Loud", "Very Loud"],
         'speechiness': ["Music", "Mixed", "Speech", "Talk"],
         'tempo': ["Slow", "Moderate", "Fast"],
