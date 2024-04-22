@@ -6,7 +6,7 @@ Este projeto faz parte da matéria de Análise de Dados e Big Data, ministrada p
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto é realizar a limpeza de dados de um conjunto de músicas do Spotify, preparando-os para análise posterior. Os dados foram obtidos através da API do Spotify, conforme documentação disponível [aqui](https://developer.spotify.com/documentation/web-api/reference/get-audio-features).
+O objetivo deste projeto é realizar a limpeza de dados de um conjunto de músicas do Spotify, preparando-os para análise posterior. Os dados foram limpos através da minha interpretação de cada váriavel na Documentação da API do Spotify, conforme documentação disponível [aqui](https://developer.spotify.com/documentation/web-api/reference/get-audio-features).
 
 ## Bibliotecas Necessárias
 
